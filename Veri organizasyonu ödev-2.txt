@@ -1,0 +1,13 @@
+Veri organizasyonu ödev-2
+
+1) ANNE(1)-------ÇOCUK(N) : (ONE TO MANY)
+2) KARI(1)-------KOCA(1)  : (ONE TO ONE)
+3) TELEFON UYGULAMASI(N)-------TELEFON(N)  : (MANY TO MANY)
+4) KOMBİ(1)-------PETEK(N)  : (ONE TO MANY)
+5) YOLCU KOLTUĞU(1)-------YOLCU(1)  : (ONE TO ONE)
+6) REKLAM(N)-------İZLEYİCİ(N)  : (MANY TO MANY)
+7) OTOMOBİL(1)-------ANAHTAR(N)  : (ONE TO MANY)
+8) K.KARTI(1)-------ŞİFRE(N)  : (ONE TO MANY)
+9) VALİ(1)-------ŞEHİR(1)  : (0NE TO ONE)
+10) METRO(N)-------METRODURAĞI(N)  : (MANY TO MANY)
+
